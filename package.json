@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/snack-attack/pack_wars.git"
+    "url": "https://github.com/snack-attack/pack_wars.git"
   },
   "author": "snack-attack",
   "license": "ISC",
