@@ -1,19 +1,19 @@
 {
-  "name": "pack_wars",
+  "name": "ghibli_flix",
   "version": "1.0.0",
-  "description": "queries the API for two objects and compares them by a specific property",
+  "description": "Compare Studio Ghibli films by their Rotten Tomatoes score.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/snack-attack/pack_wars.git"
+    "url": "git+https://github.com/snack-attack/ghibli_flix.git"
   },
-  "author": "snack-attack",
+  "author": "@snack-attack",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/snack-attack/pack_wars/issues"
+    "url": "https://github.com/snack-attack/ghibli_flix/issues"
   },
-  "homepage": "https://github.com/snack-attack/pack_wars#readme"
+  "homepage": "https://github.com/snack-attack/ghibli_flix#readme"
 }
